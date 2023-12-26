@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>primes/prime512.txt</file>
+        <file>primes/prime1024.txt</file>
+        <file>primes/prime2048.txt</file>
+        <file>primes/prime256.txt</file>
+        <file>back.png</file>
+    </qresource>
+</RCC>
